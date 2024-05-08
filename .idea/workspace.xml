@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ArathiRN/ReadDelimiterFile",
+    "accountId": "1ed736f6-28fb-4666-aebb-c89fbc6e5cd0"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -68,11 +74,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715024288657</updated>
-      <workItem from="1715024289749" duration="7321000" />
+      <workItem from="1715024289749" duration="7742000" />
     </task>
+    <task id="LOCAL-00001" summary="Guided Lab - 303.13.1 - Reading a Delimited File">
+      <option name="closed" value="true" />
+      <created>1715136901118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715136901118</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Guided Lab - 303.13.1 - Reading a Delimited File">
+      <option name="closed" value="true" />
+      <created>1715137281749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715137281749</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Guided Lab - 303.13.1 - Reading a Delimited File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Guided Lab - 303.13.1 - Reading a Delimited File" />
   </component>
 </project>
